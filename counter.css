@@ -1,0 +1,38 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    text-align: center;
+}
+
+.container {
+    border: 2px solid rgb(12, 12, 12);
+    border-radius: 12px;
+    background-image: url(Assets/railway.png);
+    background-size: cover;
+
+}
+
+button {
+    border: none;
+    cursor: pointer;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
+.entry {
+    color: rgb(4, 95, 152);
+    font-weight: bold;
+    font-size: 28px;
+}
