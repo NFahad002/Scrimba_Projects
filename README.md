@@ -1,3 +1,3 @@
-# Srimba_Projects
+# Scrimba_Projects
 
 This contains projects that were taught on Scrimba course
